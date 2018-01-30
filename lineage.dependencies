@@ -1,0 +1,18 @@
+[
+   {
+   "repository": "android_device_qcom_common",
+   "target_path": "device/qcom/common"
+   },
+   {
+      "remote":"github",
+      "repository":"selvatorxm/android_kernel_xiaomi_tissot",
+      "target_path":"kernel/xiaomi/msm8953",
+      "branch":"o-test"
+   },
+   {
+      "remote":"github",
+      "repository":"selvatorxm/proprietary_vendor_xiaomi",
+      "target_path":"vendor/xiaomi",
+      "branch":"o-test"
+   }
+]
